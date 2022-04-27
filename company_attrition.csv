@@ -1,0 +1,311 @@
+﻿EmpID,Gender,Relationship,Department,DOB,Age,Citizenship,SatisfactionScore,PerformanceScore,Termd,PayRate
+1103024456,F,Married,Sales,11/24/87,,US Citizen,1,3,1,28.5
+1106026572,M,Divorced,Sales,4/26/84,,US Citizen,1,3,0,23
+1302053333,M,Single,Sales,9/1/86,,US Citizen,1,3,0,29
+1211050782,F,Married,Sales,9/16/85,,US Citizen,1,3,0,21.5
+1307059817,F,Single,Sales,5/19/88,,US Citizen,1,3,0,16.56
+711007713,F,Married,Finance & Business Operations,6/14/87,,US Citizen,1,3,1,20.5
+1504073368,F,Married,Finance & Business Operations,6/1/64,,Eligible NonCitizen,6,3,0,55
+1403065721,F,Single,Sales,5/15/63,,US Citizen,6,3,0,55
+1408069481,F,Single,Sales,5/14/87,,US Citizen,6,1,0,55
+1306059197,M,Married,Sales,9/14/88,,US Citizen,6,3,0,56
+1204032843,M,Single,Sales,2/24/69,,US Citizen,6,3,1,55.5
+1302053046,F,Widowed,Marketing,7/10/71,,US Citizen,6,3,0,55
+1411071481,M,Married,Sales,10/12/54,,US Citizen,6,3,0,55.5
+1001167253,M,Single,Finance & Business Operations,2/9/69,,US Citizen,6,3,0,55
+1412071660,M,Separated,Sales,12/27/88,,US Citizen,6,3,0,55
+1306057978,M,Single,Sales,11/2/75,,US Citizen,6,1,0,55
+812011761,M,Single,Sales,5/19/82,,US Citizen,6,3,0,55
+1411071295,F,Married,Sales,5/12/89,,US Citizen,6,3,0,54
+1312063714,F,Married,Sales,5/23/91,,US Citizen,6,3,0,55
+1111030503,M,Single,Sales,7/11/89,,US Citizen,6,3,0,56
+1504073313,M,Married,Sales,7/7/75,,US Citizen,6,3,0,55
+1409070567,F,Single,Sales,11/8/88,,US Citizen,6,4,0,55
+1411071302,M,Single,Sales,8/28/63,,US Citizen,6,3,0,55
+1203032099,F,Single,Sales,9/22/89,,US Citizen,6,3,0,55
+1001084890,M,Married,Sales,5/9/74,,US Citizen,6,1,0,56
+1104025008,M,Single,Sales,11/27/79,,US Citizen,6,3,0,55
+1209048771,M,Single,Sales,6/11/70,,Eligible NonCitizen,6,3,0,56
+1209049326,M,Married,Human Resources,7/1/84,,US Citizen,6,3,0,55
+1111030684,F,Single,Sales,3/31/89,,US Citizen,6,3,0,55
+1501072180,F,Single,Sales,5/11/90,,US Citizen,6,3,0,57
+1102024106,F,Married,Sales,8/29/88,,US Citizen,6,3,0,55
+1502072711,M,Separated,Sales,1/15/68,,US Citizen,6,4,0,55
+1401064637,F,Single,Sales,5/7/65,,US Citizen,6,3,0,55
+1009919940,F,Married,Sales,5/12/80,,US Citizen,3,3,0,45
+1009919980,M,Single,Sales,9/4/83,,US Citizen,3,3,0,46
+1009919990,M,Married,Sales,10/24/87,,US Citizen,3,3,0,45
+1009920000,M,Married,Sales,6/30/89,,US Citizen,3,3,0,45
+1009919920,M,Married,Sales,2/9/72,,US Citizen,3,3,0,63.5
+1112030816,F,Single,Sales,8/30/79,,US Citizen,3,4,0,65
+1009919950,F,Single,Sales,11/21/72,,US Citizen,3,3,0,55
+1102024056,F,Single,Marketing,4/4/86,,US Citizen,3,3,0,43
+905013738,F,Single,Marketing,10/23/71,,US Citizen,3,3,0,48.5
+1410071156,M,Married,Marketing,8/7/86,,US Citizen,3,3,0,40.1
+1105025718,F,Single,Sales,2/21/84,,US Citizen,3,3,0,34
+1003018246,F,Married,Research & Development,11/7/86,,US Citizen,3,3,0,40
+1406068403,M,Divorced,Sales,7/4/88,,US Citizen,3,4,1,35.5
+1102023965,M,Married,Finance & Business Operations,9/5/84,,US Citizen,3,3,0,41
+1108027853,F,Married,Sales,9/16/84,,US Citizen,3,4,0,42.75
+1407068885,F,Married,Sales,10/11/81,,US Citizen,3,3,0,39.55
+1203032255,M,Married,Sales,8/26/86,,US Citizen,3,3,0,42.2
+1111030148,M,Divorced,Finance & Business Operations,12/17/87,,US Citizen,3,3,0,45
+808010278,M,Married,Sales,2/8/70,,US Citizen,3,3,0,30.2
+1110029732,F,Single,Sales,2/24/79,,US Citizen,3,3,0,31.4
+1006020066,F,Single,Sales,3/19/83,,US Citizen,5,4,0,60
+1009021646,F,Married,Sales,3/17/66,,US Citizen,6,3,0,60
+1192991000,M,Single,Sales,7/5/80,,US Citizen,3,4,0,65
+1106026933,M,Single,Sales,4/5/73,,US Citizen,3,3,0,62
+1001175250,M,Divorced,Finance & Business Operations,1/4/64,,US Citizen,3,3,1,21
+1011022863,M,Married,Sales,10/5/86,,Eligible NonCitizen,3,2,1,63
+1101023754,M,Single,Sales,7/9/70,,US Citizen,3,4,0,64
+1301052902,M,Single,Sales,9/5/85,,US Citizen,3,3,0,28.99
+1501072093,F,Single,Sales,7/6/68,,US Citizen,3,3,0,31.4
+602000312,F,Single,Sales,10/5/88,,US Citizen,3,4,1,26
+1203032263,F,Married,Sales,3/12/73,,US Citizen,3,3,0,27.49
+1212052023,M,Divorced,Sales,1/7/88,,US Citizen,3,3,0,45
+1102024173,M,Married,Sales,11/24/89,,US Citizen,3,3,0,42
+1101023540,F,Married,Sales,7/18/88,,US Citizen,3,3,0,37
+1988299991,F,Separated,Sales,4/16/81,,US Citizen,3,3,0,39
+1012023013,M,Single,Sales,6/18/87,,US Citizen,3,1,0,43
+1001956578,F,Married,Sales,4/4/79,,US Citizen,3,3,0,27
+906014183,F,Married,Sales,4/14/81,,US Citizen,3,3,0,47
+1104025466,M,Married,Finance & Business Operations,5/5/88,,US Citizen,3,3,0,28
+1411071506,M,Married,Sales,3/31/69,,Eligible NonCitizen,3,3,0,49.1
+1001495124,F,Married,Sales,9/21/54,,US Citizen,2,3,0,80
+1501072311,M,Divorced,Sales,10/10/68,,US Citizen,5,3,0,54.5
+1303054580,M,Single,Finance & Business Operations,3/10/70,,US Citizen,5,3,0,50.5
+1110029990,M,Single,Sales,8/9/83,,US Citizen,5,4,0,55
+1409070147,F,Single,Sales,11/28/73,,US Citizen,5,3,0,51
+1307060077,M,Divorced,Sales,7/11/81,,US Citizen,5,3,0,54
+1001944783,M,Married,Marketing,7/1/72,,US Citizen,5,3,0,48.5
+1403065874,M,Married,Finance & Business Operations,11/15/76,,US Citizen,5,2,0,42
+1103024679,F,Married,Sales,10/26/81,,US Citizen,5,4,0,55
+1107027351,M,Single,Sales,8/10/81,,US Citizen,5,3,0,53
+1402065355,F,Married,Finance & Business Operations,5/9/77,,US Citizen,5,3,0,38.5
+1102024149,F,Married,Sales,9/30/75,,US Citizen,5,3,0,52
+1000974650,M,Divorced,Sales,12/17/75,,US Citizen,5,2,0,53
+1405067298,F,Married,Sales,3/28/78,,US Citizen,5,3,0,55
+1410071026,F,Married,Finance & Business Operations,11/14/55,,US Citizen,5,3,1,33.5
+1304055947,F,Single,Sales,5/22/77,,US Citizen,5,4,0,23
+1109029366,M,Single,Sales,12/22/70,,US Citizen,5,3,0,16
+1101023394,F,Single,Finance & Business Operations,8/27/83,,US Citizen,5,3,0,21
+1501072124,M,Married,Sales,4/19/67,,US Citizen,5,1,0,20
+1302053339,M,Married,Sales,10/18/89,,US Citizen,5,1,0,18
+1204032927,F,Single,Sales,5/8/80,,US Citizen,5,4,0,16
+1404066622,F,Married,Sales,5/2/74,,US Citizen,5,4,0,20
+903013071,F,Married,Finance & Business Operations,10/8/70,,US Citizen,5,3,0,24
+1201031032,M,Widowed,Finance & Business Operations,11/9/72,,US Citizen,5,3,0,15
+1204033044,M,Married,Finance & Business Operations,3/28/83,,US Citizen,5,3,0,22
+1109029186,F,Single,Finance & Business Operations,7/20/86,,US Citizen,5,3,0,22
+1206038000,M,Married,Finance & Business Operations,1/7/74,,US Citizen,5,3,0,24
+1205033102,F,Married,Sales,8/24/85,,US Citizen,5,3,0,15
+1404066739,F,Single,Finance & Business Operations,5/9/65,,US Citizen,5,3,0,20
+1101023839,M,Married,Finance & Business Operations,9/9/65,,Eligible NonCitizen,5,3,0,21
+1212051409,F,Single,Research & Development,2/11/70,,US Citizen,5,3,1,22
+1308060366,F,Married,Sales,9/1/89,,US Citizen,5,4,0,16
+1407069280,M,Married,Human Resources,8/26/80,,US Citizen,5,4,0,24.75
+1209048696,F,Married,Sales,12/2/78,,US Citizen,5,2,0,22
+1006020020,F,Married,Sales,3/16/81,,US Citizen,5,3,0,24
+1411071212,M,Divorced,Sales,9/29/69,,US Citizen,5,4,1,16
+1408069882,F,Single,Sales,1/28/91,,US Citizen,5,3,0,16
+1311062610,M,Married,Sales,2/2/80,,US Citizen,5,3,0,21
+1308060754,F,Married,Sales,11/7/74,,US Citizen,5,3,0,23
+1403066020,F,Separated,Sales,6/3/67,,US Citizen,5,4,1,15
+1305057440,M,Married,Finance & Business Operations,3/6/88,,US Citizen,5,3,0,18
+1011022887,M,Widowed,Sales,1/28/85,,US Citizen,5,4,0,17
+1410071137,F,Married,Sales,7/20/68,,US Citizen,5,1,0,16
+1409070255,F,Divorced,Sales,6/5/67,,US Citizen,5,3,0,24
+1001268402,F,Single,Finance & Business Operations,5/4/82,,US Citizen,5,1,0,22
+1307060083,F,Married,Finance & Business Operations,1/12/74,,US Citizen,5,3,1,17
+1406068293,F,Married,Finance & Business Operations,8/24/90,,US Citizen,5,3,0,20
+1599991009,M,Single,Sales,9/8/77,,US Citizen,5,3,0,15
+1202031618,F,Single,Sales,10/7/86,,US Citizen,5,3,0,16.75
+1309061015,M,Single,Sales,9/15/85,,US Citizen,5,3,0,19
+1106026579,M,Married,Sales,5/21/79,,US Citizen,5,3,0,15
+1201031438,F,Single,Sales,9/11/72,,US Citizen,5,3,0,20
+1304055987,M,Married,Sales,12/9/86,,US Citizen,5,3,0,17
+1401064327,F,Married,Sales,11/22/77,,US Citizen,5,3,0,20
+1203032357,F,Single,Sales,7/7/84,,US Citizen,5,3,0,19
+1001735072,M,Single,Sales,11/23/81,,US Citizen,5,3,0,17
+710007555,F,Separated,Sales,12/5/74,,US Citizen,5,3,0,17
+1405067138,F,Divorced,Finance & Business Operations,3/26/73,,US Citizen,5,4,0,21
+1012023152,F,Single,Sales,5/16/83,,US Citizen,5,2,0,22
+1211051232,F,Widowed,Sales,8/17/78,,US Citizen,5,3,0,15
+1011022883,F,Married,Sales,9/27/88,,US Citizen,5,3,0,21
+1403066194,F,Single,Sales,10/27/70,,Eligible NonCitizen,5,3,0,22
+1305057282,F,Single,Sales,2/12/79,,US Citizen,5,3,0,19.5
+1001109612,F,Married,Sales,11/5/78,,US Citizen,5,3,0,15
+1107027392,F,Single,Marketing,5/6/89,,US Citizen,5,2,0,18
+1308060622,F,Divorced,Finance & Business Operations,5/15/70,,US Citizen,5,3,1,22
+1406068241,M,Married,Sales,9/2/82,,US Citizen,5,3,0,21
+1107027450,F,Married,Finance & Business Operations,4/17/86,,US Citizen,5,3,0,21
+1101023353,F,Married,Research & Development,10/22/75,,US Citizen,5,3,0,20
+1102024121,F,Divorced,Sales,7/7/84,,US Citizen,5,3,0,15
+1109029531,F,Married,Finance & Business Operations,5/1/79,,US Citizen,5,3,0,18
+1211050793,M,Divorced,Finance & Business Operations,7/22/82,,US Citizen,5,3,0,20
+1302053362,F,Married,Sales,7/10/88,,US Citizen,5,3,0,21
+1407069061,F,Single,Sales,8/15/68,,Eligible NonCitizen,5,3,0,14
+1101023619,F,Single,Finance & Business Operations,8/2/80,,US Citizen,5,2,0,15
+1101023679,M,Single,Sales,7/20/83,,US Citizen,5,3,0,16.76
+1311063114,M,Single,Sales,2/2/83,,US Citizen,5,3,0,20
+1403066069,F,Married,Sales,3/31/77,,US Citizen,5,3,0,15.75
+1007020403,M,Single,Sales,5/31/74,,US Citizen,5,3,0,21.25
+1101023612,M,Married,Sales,8/25/78,,US Citizen,5,3,0,21
+1105026041,F,Single,Sales,12/2/83,,US Citizen,5,3,0,24
+1103024859,F,Divorced,Finance & Business Operations,5/21/83,,US Citizen,5,3,0,14
+1412071713,F,Separated,Sales,4/13/64,,US Citizen,5,3,0,19
+1107027575,M,Single,Marketing,10/18/81,,US Citizen,5,3,0,15
+1409070245,F,Single,Finance & Business Operations,5/30/68,,US Citizen,5,3,1,14
+1404066949,M,Married,Sales,12/11/76,,US Citizen,5,4,0,16
+1401064562,M,Single,Sales,6/19/61,,US Citizen,5,3,0,16
+1410070998,F,Single,Human Resources,6/6/68,,US Citizen,5,2,1,20
+1106026896,M,Married,Sales,3/14/85,,US Citizen,5,3,0,22
+1011022814,F,Married,Marketing,6/3/86,,US Citizen,5,4,0,21
+1301052124,M,Widowed,Sales,2/18/83,,US Citizen,5,3,0,22
+1412071844,F,Divorced,Sales,12/27/58,,US Citizen,5,3,0,22
+1012023295,F,Single,Sales,5/31/88,,Non-Citizen,5,3,0,22
+706006285,M,Single,Sales,11/15/82,,US Citizen,5,3,0,21
+803009012,F,Single,Sales,6/10/86,,US Citizen,5,3,0,23
+1408069539,F,Single,Sales,6/18/92,,US Citizen,5,3,0,17
+1002017900,M,Single,Sales,1/4/84,,US Citizen,5,3,0,19
+1304055683,M,Single,Sales,11/10/77,,US Citizen,5,3,0,14
+1209049259,F,Single,Sales,7/7/86,,US Citizen,5,3,0,17
+1302053044,M,Married,Research & Development,4/8/77,,US Citizen,5,3,0,21
+1307059944,F,Married,Sales,9/23/73,,US Citizen,5,3,0,17
+1403065625,F,Married,Marketing,1/7/85,,US Citizen,5,2,0,16
+1501071909,F,Single,Sales,2/2/65,,US Citizen,5,3,0,24.5
+1103024504,F,Divorced,Finance & Business Operations,7/30/83,,US Citizen,5,3,0,20
+1308060671,F,Single,Finance & Business Operations,10/2/69,,US Citizen,5,3,1,16
+1312063507,M,Married,Finance & Business Operations,2/21/74,,US Citizen,5,3,1,22
+1408069635,F,Separated,Research & Development,10/30/69,,US Citizen,5,3,1,20
+1001450968,M,Single,Marketing,8/12/79,,US Citizen,5,2,0,15
+1406067865,F,Married,Finance & Business Operations,9/5/91,,US Citizen,5,3,0,17
+1104025414,M,Single,Sales,4/18/80,,US Citizen,5,3,0,18
+1312063675,F,Married,Research & Development,10/9/74,,US Citizen,5,3,0,24
+1503072857,F,Divorced,Sales,3/22/66,,US Citizen,5,3,0,21
+1408069409,F,Single,Finance & Business Operations,1/17/79,,US Citizen,5,3,0,19
+909015167,F,Married,Sales,1/7/87,,US Citizen,5,3,0,24
+1206044851,F,Single,Marketing,9/30/80,,US Citizen,5,1,0,18.5
+1102024274,F,Divorced,Finance & Business Operations,10/15/84,,Eligible NonCitizen,5,3,0,19
+1011022926,F,Divorced,Finance & Business Operations,9/22/70,,US Citizen,5,3,0,16
+1405067492,M,Single,Finance & Business Operations,3/18/87,,US Citizen,5,3,0,18
+1111030244,F,Divorced,Sales,8/25/82,,US Citizen,5,3,0,14
+1203032235,M,Divorced,Finance & Business Operations,1/31/87,,US Citizen,5,4,0,19
+1409070522,M,Single,Sales,7/10/83,,US Citizen,5,4,0,20
+1212051962,M,Divorced,Finance & Business Operations,7/15/77,,US Citizen,5,3,0,18
+1208048062,F,Single,Sales,1/2/51,,US Citizen,5,3,0,16
+1311063172,F,Single,Human Resources,4/10/87,,US Citizen,5,3,0,19.75
+1104025243,M,Single,Marketing,9/2/83,,US Citizen,5,2,0,17
+1501072192,F,Married,Sales,10/1/90,,US Citizen,5,3,0,19
+1405067064,F,Married,Sales,3/23/77,,US Citizen,5,3,0,24
+1105025721,M,Married,Finance & Business Operations,8/19/59,,US Citizen,5,4,0,17
+1301052462,M,Single,Sales,1/19/76,,US Citizen,5,3,0,19
+1206042315,F,Married,Finance & Business Operations,3/26/81,,US Citizen,5,3,0,15.25
+1109029256,F,Single,Sales,9/22/76,,US Citizen,5,3,0,20
+1103024335,M,Single,Sales,11/24/79,,US Citizen,5,2,0,22
+1208048229,M,Divorced,Finance & Business Operations,12/31/84,,US Citizen,5,3,0,21
+1308060535,M,Single,Finance & Business Operations,12/21/74,,US Citizen,5,3,0,21
+1201031310,M,Married,Sales,10/7/82,,US Citizen,5,3,0,19
+1106026474,F,Single,Human Resources,4/6/85,,US Citizen,5,3,0,20
+1001417624,F,Divorced,Finance & Business Operations,9/8/89,,US Citizen,5,3,0,16
+1110029777,M,Single,Research & Development,4/6/79,,US Citizen,5,3,0,17
+1111030129,M,Single,Sales,8/24/83,,US Citizen,5,3,0,22
+1306058816,M,Married,Finance & Business Operations,10/31/77,,US Citizen,5,3,0,23.5
+1502072511,F,Married,Finance & Business Operations,4/14/55,,US Citizen,5,3,0,20
+1008020960,M,Married,Finance & Business Operations,8/9/74,,US Citizen,5,2,1,15
+1110029602,F,Single,Finance & Business Operations,8/18/52,,US Citizen,5,3,0,19.75
+710007401,F,Married,Finance & Business Operations,12/8/73,,US Citizen,5,3,0,22
+1001138521,F,Single,Finance & Business Operations,2/14/73,,US Citizen,5,4,1,19
+1204033041,M,Single,Finance & Business Operations,5/2/89,,US Citizen,5,3,1,18
+1307060058,M,Single,Finance & Business Operations,3/17/88,,US Citizen,5,2,0,24
+1405067642,F,Married,Sales,1/12/73,,US Citizen,5,4,0,22
+807010161,F,Single,Research & Development,3/10/75,,US Citizen,5,3,0,15.2
+1405067501,F,Married,Finance & Business Operations,4/3/75,,Non-Citizen,5,3,1,15
+1307060212,M,Single,Finance & Business Operations,5/24/87,,US Citizen,5,3,0,23
+1011022820,F,Single,Sales,3/2/80,,US Citizen,5,3,0,25
+1109029103,M,Single,Finance & Business Operations,10/1/81,,US Citizen,5,3,0,29
+1306058509,F,Divorced,Finance & Business Operations,9/22/76,,US Citizen,5,3,0,23
+1304055986,F,Married,Finance & Business Operations,12/10/86,,US Citizen,5,3,0,23
+1202031821,F,Married,Finance & Business Operations,7/18/89,,US Citizen,5,2,0,28
+1107027551,F,Single,Finance & Business Operations,3/15/85,,US Citizen,5,3,0,22
+1012023226,F,Married,Finance & Business Operations,8/31/81,,US Citizen,5,3,0,25
+1411071324,M,Married,Finance & Business Operations,10/12/64,,US Citizen,5,1,1,29
+1306057810,F,Single,Sales,9/8/69,,US Citizen,5,4,0,25
+1205033439,M,Single,Finance & Business Operations,6/29/85,,US Citizen,5,1,0,25
+1103024843,F,Married,Sales,3/10/79,,Eligible NonCitizen,5,3,0,26
+1405067188,M,Single,Finance & Business Operations,11/7/58,,US Citizen,5,4,0,29
+1209048697,M,Married,Finance & Business Operations,11/25/78,,US Citizen,5,3,0,26
+1001549006,F,Married,Research & Development,5/25/86,,US Citizen,5,3,0,24.25
+1010022030,F,Divorced,Finance & Business Operations,7/25/79,,US Citizen,5,3,0,22
+1404066711,M,Married,Sales,8/17/92,,US Citizen,5,3,0,27
+1402065340,F,Divorced,Finance & Business Operations,9/5/81,,Eligible NonCitizen,5,3,0,26
+1205033180,F,Single,Sales,4/20/85,,US Citizen,5,3,0,22
+1008021030,F,Single,Finance & Business Operations,1/16/67,,US Citizen,5,3,0,26
+1108028428,F,Married,Sales,9/22/78,,US Citizen,5,3,0,27
+1106026433,F,Single,Human Resources,3/11/84,,US Citizen,5,3,0,25
+1001504432,F,Single,Sales,3/28/82,,US Citizen,5,4,0,26.1
+1104025435,F,Single,Sales,11/23/85,,US Citizen,5,3,0,26.39
+1001970770,M,Single,Sales,10/30/63,,US Citizen,5,4,0,22
+1406068345,F,Married,Finance & Business Operations,5/24/53,,US Citizen,5,3,0,28.75
+1303054329,F,Married,Human Resources,4/17/66,,US Citizen,5,4,0,27
+1104025179,F,Separated,Finance & Business Operations,2/25/51,,US Citizen,5,3,0,29
+1307059937,M,Single,Sales,8/10/88,,US Citizen,5,3,0,24
+1011022932,F,Single,Finance & Business Operations,8/27/72,,US Citizen,5,3,0,24
+1405067565,M,Married,Research & Development,3/19/79,,US Citizen,5,3,0,22
+1408069503,M,Single,Research & Development,12/3/76,,US Citizen,5,3,1,26
+1106026462,M,Married,Sales,4/26/86,,US Citizen,5,3,0,29
+1301052449,M,Married,Sales,8/19/77,,US Citizen,5,3,0,26
+1012023204,F,Married,Finance & Business Operations,11/8/83,,US Citizen,5,3,0,24
+1008020942,F,Divorced,Sales,11/6/86,,US Citizen,5,4,0,22.5
+1406067957,F,Single,Sales,5/21/87,,US Citizen,5,3,0,26
+1411071406,F,Married,Finance & Business Operations,8/17/86,,US Citizen,5,4,0,29
+1011022818,M,Single,Sales,2/10/76,,US Citizen,5,3,0,22
+1005019209,F,Married,Finance & Business Operations,9/19/88,,US Citizen,5,3,0,29
+1201031274,M,Single,Sales,9/14/79,,Eligible NonCitizen,5,3,0,25
+1108028351,F,Separated,Research & Development,12/8/83,,US Citizen,5,3,0,27
+1104025486,M,Married,Finance & Business Operations,5/9/84,,US Citizen,5,3,0,28
+1001103149,F,Single,Sales,4/24/70,,US Citizen,5,4,0,25
+1499902991,M,Married,Finance & Business Operations,7/3/72,,US Citizen,5,3,0,22
+1012023010,M,Single,Sales,5/11/85,,US Citizen,5,3,0,24.25
+1403066125,F,Single,Sales,9/21/90,,US Citizen,5,2,0,27
+1105025661,F,Separated,Sales,8/25/89,,US Citizen,5,1,0,24
+1207046956,F,Married,Finance & Business Operations,2/16/84,,Non-Citizen,5,3,0,28
+1305056276,F,Widowed,Finance & Business Operations,12/26/76,,US Citizen,5,3,0,24
+1301052436,M,Separated,Sales,12/1/74,,US Citizen,5,3,0,29
+1012023103,F,Single,Finance & Business Operations,11/25/87,,US Citizen,5,3,0,23
+1101023457,M,Single,Sales,7/28/83,,US Citizen,5,3,0,22
+1402065085,F,Single,Sales,9/27/87,,US Citizen,5,3,0,24
+1103024924,F,Separated,Human Resources,5/7/92,,US Citizen,5,3,0,28
+1110029623,F,Married,Human Resources,8/25/76,,US Citizen,5,3,0,23
+1001856521,F,Married,Finance & Business Operations,2/11/52,,US Citizen,5,3,0,25
+1011022777,M,Widowed,Finance & Business Operations,9/16/75,,US Citizen,5,3,0,23
+1402065303,F,Single,Sales,4/19/90,,US Citizen,6,3,0,54
+1109029264,F,Single,Finance & Business Operations,11/11/89,,US Citizen,6,3,0,60.25
+1499902910,M,Divorced,Sales,8/16/84,,US Citizen,6,2,1,56
+1009919930,F,Single,Sales,6/14/87,,US Citizen,3,3,0,50.25
+1009919960,M,Single,Sales,4/25/70,,US Citizen,3,3,0,52.25
+1009919970,M,Single,Sales,7/8/81,,US Citizen,3,3,0,51
+1102024115,M,Married,Sales,6/10/84,,US Citizen,1,3,0,55
+1206043417,M,Married,Finance & Business Operations,11/6/84,,Eligible NonCitizen,1,3,1,55
+1107027358,F,Single,Sales,5/24/79,,US Citizen,4,3,0,47.6
+1101023577,F,Single,Sales,4/5/87,,US Citizen,4,3,0,56
+1203032498,F,Single,Sales,7/5/79,,US Citizen,4,3,0,57.12
+1401064670,F,Married,Marketing,5/15/87,,US Citizen,4,2,0,48.5
+1303054625,F,Single,Sales,11/7/87,,US Citizen,4,3,0,55.51
+1112030979,M,Single,Finance & Business Operations,2/20/79,,US Citizen,4,4,1,52.25
+1012023185,F,Married,Sales,7/24/86,,US Citizen,4,3,0,49.25
+1201031324,M,Single,Sales,5/6/83,,US Citizen,4,4,0,48
+1102024057,M,Single,Finance & Business Operations,6/14/83,,Non-Citizen,4,3,1,45.42
+1001644719,M,Single,Sales,11/22/66,,US Citizen,4,3,0,27
+1201031308,F,Married,Sales,4/16/79,,US Citizen,1,3,0,34.95
+1307060188,F,Married,Sales,4/4/87,,US Citizen,1,3,1,34.95
+1307060199,M,Married,Finance & Business Operations,5/5/75,,US Citizen,3,3,0,62
+1010022337,F,Single,Human Resources,6/6/86,,US Citizen,3,3,0,61.3
+1412071562,M,Single,Marketing,7/30/64,,US Citizen,3,3,0,58.2
+1111030266,F,Single,Finance & Business Operations,5/27/73,,US Citizen,3,3,0,58.5
+1411071312,F,Married,Research & Development,1/18/52,,US Citizen,3,3,0,54.1
+1108028108,M,Married,Research & Development,4/23/86,,US Citizen,3,3,0,56.2
+904013591,M,Married,Human Resources,2/9/83,,US Citizen,3,3,0,53.8
+1308060959,M,Single,Sales,9/9/65,,US Citizen,3,3,0,53
+1301052347,F,Widowed,Sales,5/2/78,,US Citizen,3,3,0,55.2
