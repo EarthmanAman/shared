@@ -45,7 +45,7 @@ def display_equipments():
 	print(new_df.to_markdown())
 
 def display_menu():
-	choice = int(input("Choose what you want:\n1. A table showing russia personnel losses.\n2. A table showing russia equipments losses\n3. Graphical representation of equipment losses per day\n4. Graphical representation of personnel losses per day\n5. Graphical representation to compare equipment loss and personnel loss\nChoice: "))
+	choice = int(input("Choose what you want:\n1. A table showing russia personnel losses.\n2. A table showing russia equipments losses\n3. Graphical representation of equipment losses per day\n4. Graphical representation of personnel losses per day\nChoice: "))
 	return choice
 
 def main():
@@ -57,7 +57,7 @@ def main():
 	print()
 	print("-"*20)
 	if choice == 1:
-		display_table("personnel.csv")
+		display_personnel()
 	elif choice == 2:
 		display_equipments()
 	elif choice == 3:
